@@ -8,7 +8,7 @@
       "localPath": "collections/starwars_base.json",
       "coverImage": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Star_Wars_Logo.svg",
       "placeholder": "starwars",
-      "remoteUrl": "https://raw.githubusercontent.com/ObidioTimoteo/galactica-cards/main/collections/starwars_base.json"
+      "remoteUrl": "https://raw.githubusercontent.com/ObidioTimoteo/galactica-cards/main/starwars_base.json"
     },
     {
       "id": "lorcana_base",
@@ -17,7 +17,7 @@
       "localPath": "collections/lorcana_base.json",
       "coverImage": "https://upload.wikimedia.org/wikipedia/commons/3/30/Disney_Lorcana_logo.png",
       "placeholder": "lorcana",
-      "remoteUrl": "https://raw.githubusercontent.com/ObidioTimoteo/galactica-cards/main/collections/lorcana_base.json"
+      "remoteUrl": "https://raw.githubusercontent.com/ObidioTimoteo/galactica-cards/main/lorcana_base.json"
     }
   ]
 }
