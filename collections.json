@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "collections": [
+    {
+      "id": "starwars_base",
+      "name": "Star Wars Base",
+      "version": 1,
+      "localPath": "collections/starwars_base.json",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Star_Wars_Logo.svg",
+      "placeholder": "starwars"
+    },
+    {
+      "id": "lorcana_base",
+      "name": "Disney Lorcana Base",
+      "version": 1,
+      "localPath": "collections/lorcana_base.json",
+      "coverImage": "https://upload.wikimedia.org/wikipedia/commons/3/30/Disney_Lorcana_logo.png",
+      "placeholder": "lorcana"
+    }
+  ]
+}
