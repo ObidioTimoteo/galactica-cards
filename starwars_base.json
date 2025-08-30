@@ -2,67 +2,121 @@
   {
     "id": "swc24-001",
     "number": "001",
-    "title": "Baby Yoda",
-    "imageUrl": "https://beckett-www.s3.amazonaws.com/news/news-content/uploads/2024/07/2024-Topps-Chrome-Star-Wars-Base-Red-Refractors.jpg"
+    "title": "Ashoka Tano",
+    "imageUrl": "https://raw.githubusercontent.com/ObidioTimoteo/galactica-cards/main/images/starwars/swc24/swc24_001"
   },
   {
     "id": "swc24-002",
     "number": "002",
-    "title": "Yoda",
+    "title": "Hera Syndulla",
     "imageUrl": "https://images.production.sportscardinvestor.com/7329_6819_17379_140-L"
   },
   {
     "id": "swc24-003",
     "number": "003",
-    "title": "Shin Hati",
+    "title": "Sabine Wren",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPumzsZe_nH3GbPWlLJoaQjxolTdh0vsFTq7mmNaF-wlQWoBQecXe9UhDLDkVawEyMjvM&usqp=CAU"
   },
   {
     "id": "swc24-004",
     "number": "004",
-    "title": "Luthen Rael",
+    "title": "Grand Admiral Thrawn",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIaXJ5IgjkN1rJTQZPz7_TWocip3u8yRF6Dg&s"
   },
   {
     "id": "swc24-005",
     "number": "005",
-    "title": "Obi-Wan Kenobi",
+    "title": "Baylan Skoll",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHc0VJbzhoxHFVhncKRjSwF_chcDAS-ac1BLi81erISp8Mnn9flLuUlJI0E8RfSzuI5kk&usqp=CAU"
   },
   {
     "id": "swc24-006",
     "number": "006",
-    "title": "Rey",
+    "title": "Shin Hati",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOmmxGi_QOv7i6uHV6dPM3O-r0kDI38OOMUwJFtg5osPmYcGDMHhq3bTE-QMwjKZPuEZo&usqp=CAU"
   },
   {
     "id": "swc24-007",
     "number": "007",
-    "title": "Ahsoka Tano",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9aRCZ8tlwd4wI-pDSirjH2vZoRfaWThotcJ7I2p71YgQyL-dFWo-b06wLqRIJqoyCRFQ&usqp=CAU"
+    "title": "Cassian Andor",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZCu1_NnfDTF3lfV_cVw54QslJ4DQBKX9sfnA6cfndScUl8yhcM_0sOytpNW1qmrSf2kE&usqp=CAU"
   },
   {
     "id": "swc24-008",
     "number": "008",
-    "title": "Fennec Shand",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZCu1_NnfDTF3lfV_cVw54QslJ4DQBKX9sfnA6cfndScUl8yhcM_0sOytpNW1qmrSf2kE&usqp=CAU"
+    "title": "Mon Mothma",
+    "imageUrl": "https://images.production.sportscardinvestor.com/7329_8381_17392_HV-3-L"
   },
   {
     "id": "swc24-009",
     "number": "009",
-    "title": "Sabine Wren",
-    "imageUrl": "https://images.production.sportscardinvestor.com/7329_8381_17392_HV-3-L"
+    "title": "Luthen Rael",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLL8sOHTz3wficp7A9MBR_wAluNGbAnlHXVzoJwzR9yQ8byR2R0ljIa_-iWsn_eUnnU5k&usqp=CAU"
   },
   {
     "id": "swc24-010",
     "number": "010",
-    "title": "Cassian Andor",
+    "title": "Bix Caleen",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLL8sOHTz3wficp7A9MBR_wAluNGbAnlHXVzoJwzR9yQ8byR2R0ljIa_-iWsn_eUnnU5k&usqp=CAU"
   },
   {
     "id": "swc24-011",
     "number": "011",
-    "title": "Dath Vader",
-    "imageUrl": "https://images.production.sportscardinvestor.com/7329_8381_17392_HV-3-L"
+    "title": "Kino Loy",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLL8sOHTz3wficp7A9MBR_wAluNGbAnlHXVzoJwzR9yQ8byR2R0ljIa_-iWsn_eUnnU5k&usqp=CAU"
+  },
+  {
+    "id": "swc24-012",
+    "number": "012",
+    "title": "Syril Karn",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLL8sOHTz3wficp7A9MBR_wAluNGbAnlHXVzoJwzR9yQ8byR2R0ljIa_-iWsn_eUnnU5k&usqp=CAU"
+  },
+  {
+    "id": "swc24-013",
+    "number": "013",
+    "title": "Maarva Andor",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLL8sOHTz3wficp7A9MBR_wAluNGbAnlHXVzoJwzR9yQ8byR2R0ljIa_-iWsn_eUnnU5k&usqp=CAU"
+  },
+  {
+    "id": "swc24-014",
+    "number": "014",
+    "title": "Dedra Meero",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLL8sOHTz3wficp7A9MBR_wAluNGbAnlHXVzoJwzR9yQ8byR2R0ljIa_-iWsn_eUnnU5k&usqp=CAU"
+  },
+  {
+    "id": "swc24-015",
+    "number": "015",
+    "title": "Vel Sartha",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLL8sOHTz3wficp7A9MBR_wAluNGbAnlHXVzoJwzR9yQ8byR2R0ljIa_-iWsn_eUnnU5k&usqp=CAU"
+  },
+  {
+    "id": "swc24-016",
+    "number": "016",
+    "title": "Cinta Kaz",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLL8sOHTz3wficp7A9MBR_wAluNGbAnlHXVzoJwzR9yQ8byR2R0ljIa_-iWsn_eUnnU5k&usqp=CAU"
+  },
+  {
+    "id": "swc24-017",
+    "number": "017",
+    "title": "Saw Gerrera",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLL8sOHTz3wficp7A9MBR_wAluNGbAnlHXVzoJwzR9yQ8byR2R0ljIa_-iWsn_eUnnU5k&usqp=CAU"
+  },
+  {
+    "id": "swc24-018",
+    "number": "018",
+    "title": "B2EMO",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLL8sOHTz3wficp7A9MBR_wAluNGbAnlHXVzoJwzR9yQ8byR2R0ljIa_-iWsn_eUnnU5k&usqp=CAU"
+  },
+  {
+    "id": "swc24-019",
+    "number": "019",
+    "title": "Boba Fett",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLL8sOHTz3wficp7A9MBR_wAluNGbAnlHXVzoJwzR9yQ8byR2R0ljIa_-iWsn_eUnnU5k&usqp=CAU"
+  },
+  {
+    "id": "swc24-020",
+    "number": "020",
+    "title": "Fennec Shand",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLL8sOHTz3wficp7A9MBR_wAluNGbAnlHXVzoJwzR9yQ8byR2R0ljIa_-iWsn_eUnnU5k&usqp=CAU"
   }
 ]
