@@ -6,7 +6,7 @@
       "name": "Star Wars Base",
       "version": 1,
       "localPath": "collections/starwars_base.json",
-      "coverImage": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Star_Wars_Logo.svg",
+      "coverImage": "https://raw.githubusercontent.com/ObidioTimoteo/galactica-cards/main/images/starwars/swc24/ph_starwars.jpg",
       "placeholder": "starwars",
       "remoteUrl": "https://raw.githubusercontent.com/ObidioTimoteo/galactica-cards/main/starwars_base.json"
     },
