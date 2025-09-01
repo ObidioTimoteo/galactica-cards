@@ -15,7 +15,7 @@
       "name": "Disney Lorcana Base",
       "version": 1,
       "localPath": "collections/lorcana_base.json",
-      "coverImage": "https://raw.githubusercontent.com/ObidioTimoteo/galactica-cards/main/images/lorcana/ph_lorcana.png",
+      "coverImage": "https://raw.githubusercontent.com/ObidioTimoteo/galactica-cards/main/images/lorcana/ph_starwars.jpg",
       "placeholder": "lorcana",
       "remoteUrl": "https://raw.githubusercontent.com/ObidioTimoteo/galactica-cards/main/lorcana_base.json"
     }
