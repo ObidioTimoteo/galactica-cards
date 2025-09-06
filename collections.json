@@ -17,7 +17,7 @@
       "version": 1,
       "localPath": "collections/lorcana_base.json",
       "coverImage": "https://raw.githubusercontent.com/ObidioTimoteo/galactica-cards/main/images/lorcana/ph_lorcana.png",
-      "collectionImage": "https://raw.githubusercontent.com/ObidioTimoteo/galactica-cards/main/images/lorcana/collection_lorcana.webp",
+      "collectionImage": "https://raw.githubusercontent.com/ObidioTimoteo/galactica-cards/main/images/lorcana/ph_lorcana.png",
       "placeholder": "lorcana",
       "remoteUrl": "https://raw.githubusercontent.com/ObidioTimoteo/galactica-cards/main/lorcana_base.json"
     }
